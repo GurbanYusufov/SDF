@@ -18,7 +18,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:scaleType="centerCrop"
-            android:src="@drawable/profile" />
+            android:src="@drawable/ic_launcher_background" />
 
     </androidx.cardview.widget.CardView>
 
@@ -105,7 +105,7 @@
             android:layout_width="100dp"
             android:layout_height="120dp"
             android:scaleType="centerCrop"
-            android:src="@drawable/engilish" />
+            android:src="@drawable/img2" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -130,7 +130,7 @@
             android:layout_width="100dp"
             android:layout_height="120dp"
             android:scaleType="centerCrop"
-            android:src="@drawable/engilish" />
+            android:src="@drawable/biology" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -156,7 +156,7 @@
             android:layout_width="100dp"
             android:layout_height="120dp"
             android:scaleType="centerCrop"
-            android:src="@drawable/engilish" />
+            android:src="@drawable/chemstry" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -181,7 +181,7 @@
             android:layout_width="100dp"
             android:layout_height="120dp"
             android:scaleType="centerCrop"
-            android:src="@drawable/engilish" />
+            android:src="@drawable/math" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -206,7 +206,7 @@
             android:layout_width="100dp"
             android:layout_height="120dp"
             android:scaleType="centerCrop"
-            android:src="@drawable/engilish" />
+            android:src="@drawable/geography" />
 
         <TextView
             android:layout_width="wrap_content"
